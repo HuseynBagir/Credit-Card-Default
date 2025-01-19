@@ -29,8 +29,8 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 
 ### Objective:
 
-Objective of our project is to predict which customer might default in upcoming months. Before going any fudther let's have a quick look on defination of what actually meant by Credit Card Default.
+Our project's goal is to forecast which customers may experience default in the months to come. Before we continue, let's take a moment to review the definition of credit card default.
 
-We are all aware what is credit card. It is type of payment payment card in which charges are made against a line of credit instead of the account holder's cash deposits. When someone uses a credit card to make a purchase, that person's account accrues a balance that must be paid off each month.
+Everyone knows what a credit card is. Instead of using the account holder's cash deposits, this kind of payment card charges are made against a line of credit. Every time a credit card is used for a purchase, a debt is added to the user's account that needs to be paid off every month.
 
-Credit card default happens when you have become severely delinquent on your credit card payments.Missing credit card payments once or twice does not count as a default. A payment default occurs when you fail to pay the Minimum Amount Due on the credit card for a few consecutive months.
+When your credit card payments are far behind due, you are said to be in credit card default.One or two missed credit card payments are not considered defaults. When you don't pay the credit card's Minimum Amount Due for several months in a row, you have a payment default.
